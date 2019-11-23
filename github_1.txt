@@ -1,7 +1,2 @@
 File one:i
 Adding content in local workspace
-:s
-:w
-:q
-
-
